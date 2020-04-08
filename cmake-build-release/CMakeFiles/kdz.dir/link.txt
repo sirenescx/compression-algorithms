@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/kdz.dir/main.cpp.o CMakeFiles/kdz.dir/huffman.cpp.o CMakeFiles/kdz.dir/lz77.cpp.o  -o kdz 
